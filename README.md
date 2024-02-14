@@ -72,7 +72,7 @@ Here is the schedule for upcoming lectures and presentations:
   - Conclusion
 - **Materials:**
   - [Slides](./Intro-to-mOWL/mOWL.pptx)
-  - [Hands-On Session](./Lecture-2022-01-15/code_samples.zip)
+  - [Hands-On Session](./Intro-to-mOWL)
 
 ## Contributing
 
