@@ -58,18 +58,21 @@ Here is the schedule for upcoming lectures and presentations:
 
 ### Past Lectures
 
-### Lecture: January 15, 2022
+### Lecture: February 9, 2024
 
-- **Topic:** Introduction to Machine Learning Algorithms
-- **Presenter:** Dr. John Smith
+- **Topic:** Introduction to mOWL
+- **Presenter:** Dr. Kalliopi Kastampolidou
 - **Agenda:**
-  - Overview of supervised and unsupervised learning
-  - Discussion on popular machine learning algorithms
-  - Case studies and examples
+  - Introduction and Objectives
+  - Components of mOWL
+  - Requirements: Necessary Tools and Libraries
+  - Ontologies and Embeddings
+  - mOWL Functionalities
+  - Use Cases: Applications in Biomedical Domain
+  - Conclusion
 - **Materials:**
   - [Slides](./Lecture-2022-01-15/slides.pdf)
-  - [Code Samples](./Lecture-2022-01-15/code_samples.zip)
-- **Additional Information:**
+  - [Hands-On Session](./Lecture-2022-01-15/code_samples.zip)
 
 ## Contributing
 
