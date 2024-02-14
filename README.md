@@ -71,7 +71,7 @@ Here is the schedule for upcoming lectures and presentations:
   - Use Cases: Applications in Biomedical Domain
   - Conclusion
 - **Materials:**
-  - [Slides](./)
+  - [Slides](./Intro-to-mOWL/mOWL.pptx)
   - [Hands-On Session](./Lecture-2022-01-15/code_samples.zip)
 
 ## Contributing
