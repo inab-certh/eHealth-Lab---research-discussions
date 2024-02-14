@@ -14,48 +14,42 @@ The purpose of this repository is to facilitate knowledge sharing, collaboration
 
 Here is the schedule for upcoming lectures and presentations:
 
-1. **21/02/2024:** [Topic]
-   - Presenter: Achilleas Chytas
-   - Agenda:
-     - Introduction to the topic
-     - Discussion points
-     - Q&A session
-
-2. **06/03/2024:** [Topic]
+1. **06/03/2024:** [Topic]
    - Presenter: Pantelis Natsiavas
    - Agenda:
      - Introduction to the topic
      - Discussion points
      - Q&A session
        
-3. **20/03/2024:** [Topic]
+2. **20/03/2024:** [Topic]
    - Presenter: Grigoris Papapostolou
    - Agenda:
      - Introduction to the topic
      - Discussion points
      - Q&A session
 
-4. **03/04/2024:** [Topic]
+3. **03/04/2024:** [Topic]
    - Presenter: Christos Timamopoulos
    - Agenda:
      - Introduction to the topic
      - Discussion points
      - Q&A session
     
-5. **17/04/2024:** [Topic]
+4. **17/04/2024:** [Topic]
    - Presenter: Anastasia Farmaki
    - Agenda:
      - Introduction to the topic
      - Discussion points
      - Q&A session
 
-6. **15/05/2024:** [Topic]
+5. **15/05/2024:** [Topic]
    - Presenter: Panos Bonotis
    - Agenda:
      - Introduction to the topic
      - Discussion points
      - Q&A session
 
+  
 ### Past Lectures
 
 ### Lecture: February 9, 2024
