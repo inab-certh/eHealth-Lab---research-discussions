@@ -1,7 +1,7 @@
 # Research Discussions
 
 Welcome to the Research Discussions repository! This repository contains supplementary materials for internal presentations and discussions on various research topics and interests within eHealth Lab.
-  - Lectures are held every two weeks at 13:00, with the possibility of video recording for the YouTube channel.
+  - Lectures are held every two weeks at 13:30, with the possibility of video recording for the YouTube channel.
 
 
 ## Purpose
