@@ -1,10 +1,12 @@
 # Research Discussions
 
 Welcome to the Research Discussions repository! This repository contains supplementary materials for internal presentations and discussions on various research topics and interests within eHealth Lab.
+  - Lectures are held every two weeks at 13:00, with the possibility of video recording for the YouTube channel.
+
 
 ## Purpose
 
-The purpose of this repository is to facilitate knowledge sharing, collaboration, and discussion among team members regarding ongoing research projects and innovative ideas.
+The purpose of this repository is to facilitate knowledge sharing, collaboration, and discussion among team members regarding ongoing research projects and innovative ideas. The purpose of these internal lectures is to focus on specific topics based on the interests of the speaker.
 
 ## Contents
 
@@ -56,10 +58,18 @@ Here is the schedule for upcoming lectures and presentations:
 
 ### Past Lectures
 
-You can find materials from past lectures and presentations in the following directories:
+### Lecture: January 15, 2022
 
-- Intro to mOWL
-
+- **Topic:** Introduction to Machine Learning Algorithms
+- **Presenter:** Dr. John Smith
+- **Agenda:**
+  - Overview of supervised and unsupervised learning
+  - Discussion on popular machine learning algorithms
+  - Case studies and examples
+- **Materials:**
+  - [Slides](./Lecture-2022-01-15/slides.pdf)
+  - [Code Samples](./Lecture-2022-01-15/code_samples.zip)
+- **Additional Information:**
 
 ## Contributing
 
