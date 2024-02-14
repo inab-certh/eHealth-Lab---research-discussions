@@ -1,0 +1,5979 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://is_associated_with -->
+
+    <ObjectProperty rdf:about="http://is_associated_with"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://OMIM_100800 -->
+
+    <Class rdf:about="http://OMIM_100800"/>
+    
+
+
+    <!-- http://OMIM_104500 -->
+
+    <Class rdf:about="http://OMIM_104500"/>
+    
+
+
+    <!-- http://OMIM_106280 -->
+
+    <Class rdf:about="http://OMIM_106280"/>
+    
+
+
+    <!-- http://OMIM_108800 -->
+
+    <Class rdf:about="http://OMIM_108800"/>
+    
+
+
+    <!-- http://OMIM_108900 -->
+
+    <Class rdf:about="http://OMIM_108900"/>
+    
+
+
+    <!-- http://OMIM_109350 -->
+
+    <Class rdf:about="http://OMIM_109350"/>
+    
+
+
+    <!-- http://OMIM_109800 -->
+
+    <Class rdf:about="http://OMIM_109800"/>
+    
+
+
+    <!-- http://OMIM_113800 -->
+
+    <Class rdf:about="http://OMIM_113800"/>
+    
+
+
+    <!-- http://OMIM_113970 -->
+
+    <Class rdf:about="http://OMIM_113970"/>
+    
+
+
+    <!-- http://OMIM_114480 -->
+
+    <Class rdf:about="http://OMIM_114480"/>
+    
+
+
+    <!-- http://OMIM_114550 -->
+
+    <Class rdf:about="http://OMIM_114550"/>
+    
+
+
+    <!-- http://OMIM_119800 -->
+
+    <Class rdf:about="http://OMIM_119800"/>
+    
+
+
+    <!-- http://OMIM_121800 -->
+
+    <Class rdf:about="http://OMIM_121800"/>
+    
+
+
+    <!-- http://OMIM_123155 -->
+
+    <Class rdf:about="http://OMIM_123155"/>
+    
+
+
+    <!-- http://OMIM_125853 -->
+
+    <Class rdf:about="http://OMIM_125853"/>
+    
+
+
+    <!-- http://OMIM_127300 -->
+
+    <Class rdf:about="http://OMIM_127300"/>
+    
+
+
+    <!-- http://OMIM_130600 -->
+
+    <Class rdf:about="http://OMIM_130600"/>
+    
+
+
+    <!-- http://OMIM_130700 -->
+
+    <Class rdf:about="http://OMIM_130700"/>
+    
+
+
+    <!-- http://OMIM_131760 -->
+
+    <Class rdf:about="http://OMIM_131760"/>
+    
+
+
+    <!-- http://OMIM_137750 -->
+
+    <Class rdf:about="http://OMIM_137750"/>
+    
+
+
+    <!-- http://OMIM_139300 -->
+
+    <Class rdf:about="http://OMIM_139300"/>
+    
+
+
+    <!-- http://OMIM_142340 -->
+
+    <Class rdf:about="http://OMIM_142340"/>
+    
+
+
+    <!-- http://OMIM_142680 -->
+
+    <Class rdf:about="http://OMIM_142680"/>
+    
+
+
+    <!-- http://OMIM_143465 -->
+
+    <Class rdf:about="http://OMIM_143465"/>
+    
+
+
+    <!-- http://OMIM_145500 -->
+
+    <Class rdf:about="http://OMIM_145500"/>
+    
+
+
+    <!-- http://OMIM_146300 -->
+
+    <Class rdf:about="http://OMIM_146300"/>
+    
+
+
+    <!-- http://OMIM_152700 -->
+
+    <Class rdf:about="http://OMIM_152700"/>
+    
+
+
+    <!-- http://OMIM_155100 -->
+
+    <Class rdf:about="http://OMIM_155100"/>
+    
+
+
+    <!-- http://OMIM_155255 -->
+
+    <Class rdf:about="http://OMIM_155255"/>
+    
+
+
+    <!-- http://OMIM_159050 -->
+
+    <Class rdf:about="http://OMIM_159050"/>
+    
+
+
+    <!-- http://OMIM_160750 -->
+
+    <Class rdf:about="http://OMIM_160750"/>
+    
+
+
+    <!-- http://OMIM_160900 -->
+
+    <Class rdf:about="http://OMIM_160900"/>
+    
+
+
+    <!-- http://OMIM_164210 -->
+
+    <Class rdf:about="http://OMIM_164210"/>
+    
+
+
+    <!-- http://OMIM_167750 -->
+
+    <Class rdf:about="http://OMIM_167750"/>
+    
+
+
+    <!-- http://OMIM_173900 -->
+
+    <Class rdf:about="http://OMIM_173900"/>
+    
+
+
+    <!-- http://OMIM_174050 -->
+
+    <Class rdf:about="http://OMIM_174050"/>
+    
+
+
+    <!-- http://OMIM_176270 -->
+
+    <Class rdf:about="http://OMIM_176270"/>
+    
+
+
+    <!-- http://OMIM_176807 -->
+
+    <Class rdf:about="http://OMIM_176807"/>
+    
+
+
+    <!-- http://OMIM_177735 -->
+
+    <Class rdf:about="http://OMIM_177735"/>
+    
+
+
+    <!-- http://OMIM_178500 -->
+
+    <Class rdf:about="http://OMIM_178500"/>
+    
+
+
+    <!-- http://OMIM_180300 -->
+
+    <Class rdf:about="http://OMIM_180300"/>
+    
+
+
+    <!-- http://OMIM_180500 -->
+
+    <Class rdf:about="http://OMIM_180500"/>
+    
+
+
+    <!-- http://OMIM_180849 -->
+
+    <Class rdf:about="http://OMIM_180849"/>
+    
+
+
+    <!-- http://OMIM_181500 -->
+
+    <Class rdf:about="http://OMIM_181500"/>
+    
+
+
+    <!-- http://OMIM_183090 -->
+
+    <Class rdf:about="http://OMIM_183090"/>
+    
+
+
+    <!-- http://OMIM_185050 -->
+
+    <Class rdf:about="http://OMIM_185050"/>
+    
+
+
+    <!-- http://OMIM_187500 -->
+
+    <Class rdf:about="http://OMIM_187500"/>
+    
+
+
+    <!-- http://OMIM_187601 -->
+
+    <Class rdf:about="http://OMIM_187601"/>
+    
+
+
+    <!-- http://OMIM_187950 -->
+
+    <Class rdf:about="http://OMIM_187950"/>
+    
+
+
+    <!-- http://OMIM_188400 -->
+
+    <Class rdf:about="http://OMIM_188400"/>
+    
+
+
+    <!-- http://OMIM_190400 -->
+
+    <Class rdf:about="http://OMIM_190400"/>
+    
+
+
+    <!-- http://OMIM_192430 -->
+
+    <Class rdf:about="http://OMIM_192430"/>
+    
+
+
+    <!-- http://OMIM_194050 -->
+
+    <Class rdf:about="http://OMIM_194050"/>
+    
+
+
+    <!-- http://OMIM_194080 -->
+
+    <Class rdf:about="http://OMIM_194080"/>
+    
+
+
+    <!-- http://OMIM_194200 -->
+
+    <Class rdf:about="http://OMIM_194200"/>
+    
+
+
+    <!-- http://OMIM_200400 -->
+
+    <Class rdf:about="http://OMIM_200400"/>
+    
+
+
+    <!-- http://OMIM_200700 -->
+
+    <Class rdf:about="http://OMIM_200700"/>
+    
+
+
+    <!-- http://OMIM_201810 -->
+
+    <Class rdf:about="http://OMIM_201810"/>
+    
+
+
+    <!-- http://OMIM_202010 -->
+
+    <Class rdf:about="http://OMIM_202010"/>
+    
+
+
+    <!-- http://OMIM_203300 -->
+
+    <Class rdf:about="http://OMIM_203300"/>
+    
+
+
+    <!-- http://OMIM_203780 -->
+
+    <Class rdf:about="http://OMIM_203780"/>
+    
+
+
+    <!-- http://OMIM_208530 -->
+
+    <Class rdf:about="http://OMIM_208530"/>
+    
+
+
+    <!-- http://OMIM_210370 -->
+
+    <Class rdf:about="http://OMIM_210370"/>
+    
+
+
+    <!-- http://OMIM_211180 -->
+
+    <Class rdf:about="http://OMIM_211180"/>
+    
+
+
+    <!-- http://OMIM_213600 -->
+
+    <Class rdf:about="http://OMIM_213600"/>
+    
+
+
+    <!-- http://OMIM_214450 -->
+
+    <Class rdf:about="http://OMIM_214450"/>
+    
+
+
+    <!-- http://OMIM_214800 -->
+
+    <Class rdf:about="http://OMIM_214800"/>
+    
+
+
+    <!-- http://OMIM_220100 -->
+
+    <Class rdf:about="http://OMIM_220100"/>
+    
+
+
+    <!-- http://OMIM_220110 -->
+
+    <Class rdf:about="http://OMIM_220110"/>
+    
+
+
+    <!-- http://OMIM_221750 -->
+
+    <Class rdf:about="http://OMIM_221750"/>
+    
+
+
+    <!-- http://OMIM_222100 -->
+
+    <Class rdf:about="http://OMIM_222100"/>
+    
+
+
+    <!-- http://OMIM_227850 -->
+
+    <Class rdf:about="http://OMIM_227850"/>
+    
+
+
+    <!-- http://OMIM_228930 -->
+
+    <Class rdf:about="http://OMIM_228930"/>
+    
+
+
+    <!-- http://OMIM_231300 -->
+
+    <Class rdf:about="http://OMIM_231300"/>
+    
+
+
+    <!-- http://OMIM_232200 -->
+
+    <Class rdf:about="http://OMIM_232200"/>
+    
+
+
+    <!-- http://OMIM_236600 -->
+
+    <Class rdf:about="http://OMIM_236600"/>
+    
+
+
+    <!-- http://OMIM_246900 -->
+
+    <Class rdf:about="http://OMIM_246900"/>
+    
+
+
+    <!-- http://OMIM_248600 -->
+
+    <Class rdf:about="http://OMIM_248600"/>
+    
+
+
+    <!-- http://OMIM_251850 -->
+
+    <Class rdf:about="http://OMIM_251850"/>
+    
+
+
+    <!-- http://OMIM_253601 -->
+
+    <Class rdf:about="http://OMIM_253601"/>
+    
+
+
+    <!-- http://OMIM_254300 -->
+
+    <Class rdf:about="http://OMIM_254300"/>
+    
+
+
+    <!-- http://OMIM_254450 -->
+
+    <Class rdf:about="http://OMIM_254450"/>
+    
+
+
+    <!-- http://OMIM_254770 -->
+
+    <Class rdf:about="http://OMIM_254770"/>
+    
+
+
+    <!-- http://OMIM_254780 -->
+
+    <Class rdf:about="http://OMIM_254780"/>
+    
+
+
+    <!-- http://OMIM_259700 -->
+
+    <Class rdf:about="http://OMIM_259700"/>
+    
+
+
+    <!-- http://OMIM_259900 -->
+
+    <Class rdf:about="http://OMIM_259900"/>
+    
+
+
+    <!-- http://OMIM_260400 -->
+
+    <Class rdf:about="http://OMIM_260400"/>
+    
+
+
+    <!-- http://OMIM_261600 -->
+
+    <Class rdf:about="http://OMIM_261600"/>
+    
+
+
+    <!-- http://OMIM_261800 -->
+
+    <Class rdf:about="http://OMIM_261800"/>
+    
+
+
+    <!-- http://OMIM_262600 -->
+
+    <Class rdf:about="http://OMIM_262600"/>
+    
+
+
+    <!-- http://OMIM_263200 -->
+
+    <Class rdf:about="http://OMIM_263200"/>
+    
+
+
+    <!-- http://OMIM_263800 -->
+
+    <Class rdf:about="http://OMIM_263800"/>
+    
+
+
+    <!-- http://OMIM_264300 -->
+
+    <Class rdf:about="http://OMIM_264300"/>
+    
+
+
+    <!-- http://OMIM_265120 -->
+
+    <Class rdf:about="http://OMIM_265120"/>
+    
+
+
+    <!-- http://OMIM_265400 -->
+
+    <Class rdf:about="http://OMIM_265400"/>
+    
+
+
+    <!-- http://OMIM_267200 -->
+
+    <Class rdf:about="http://OMIM_267200"/>
+    
+
+
+    <!-- http://OMIM_267450 -->
+
+    <Class rdf:about="http://OMIM_267450"/>
+    
+
+
+    <!-- http://OMIM_268310 -->
+
+    <Class rdf:about="http://OMIM_268310"/>
+    
+
+
+    <!-- http://OMIM_270150 -->
+
+    <Class rdf:about="http://OMIM_270150"/>
+    
+
+
+    <!-- http://OMIM_270550 -->
+
+    <Class rdf:about="http://OMIM_270550"/>
+    
+
+
+    <!-- http://OMIM_274600 -->
+
+    <Class rdf:about="http://OMIM_274600"/>
+    
+
+
+    <!-- http://OMIM_277300 -->
+
+    <Class rdf:about="http://OMIM_277300"/>
+    
+
+
+    <!-- http://OMIM_277600 -->
+
+    <Class rdf:about="http://OMIM_277600"/>
+    
+
+
+    <!-- http://OMIM_278720 -->
+
+    <Class rdf:about="http://OMIM_278720"/>
+    
+
+
+    <!-- http://OMIM_300066 -->
+
+    <Class rdf:about="http://OMIM_300066"/>
+    
+
+
+    <!-- http://OMIM_300068 -->
+
+    <Class rdf:about="http://OMIM_300068"/>
+    
+
+
+    <!-- http://OMIM_300243 -->
+
+    <Class rdf:about="http://OMIM_300243"/>
+    
+
+
+    <!-- http://OMIM_300558 -->
+
+    <Class rdf:about="http://OMIM_300558"/>
+    
+
+
+    <!-- http://OMIM_300752 -->
+
+    <Class rdf:about="http://OMIM_300752"/>
+    
+
+
+    <!-- http://OMIM_300809 -->
+
+    <Class rdf:about="http://OMIM_300809"/>
+    
+
+
+    <!-- http://OMIM_300912 -->
+
+    <Class rdf:about="http://OMIM_300912"/>
+    
+
+
+    <!-- http://OMIM_301200 -->
+
+    <Class rdf:about="http://OMIM_301200"/>
+    
+
+
+    <!-- http://OMIM_302060 -->
+
+    <Class rdf:about="http://OMIM_302060"/>
+    
+
+
+    <!-- http://OMIM_302950 -->
+
+    <Class rdf:about="http://OMIM_302950"/>
+    
+
+
+    <!-- http://OMIM_304110 -->
+
+    <Class rdf:about="http://OMIM_304110"/>
+    
+
+
+    <!-- http://OMIM_304790 -->
+
+    <Class rdf:about="http://OMIM_304790"/>
+    
+
+
+    <!-- http://OMIM_305100 -->
+
+    <Class rdf:about="http://OMIM_305100"/>
+    
+
+
+    <!-- http://OMIM_306955 -->
+
+    <Class rdf:about="http://OMIM_306955"/>
+    
+
+
+    <!-- http://OMIM_307000 -->
+
+    <Class rdf:about="http://OMIM_307000"/>
+    
+
+
+    <!-- http://OMIM_309400 -->
+
+    <Class rdf:about="http://OMIM_309400"/>
+    
+
+
+    <!-- http://OMIM_310200 -->
+
+    <Class rdf:about="http://OMIM_310200"/>
+    
+
+
+    <!-- http://OMIM_310460 -->
+
+    <Class rdf:about="http://OMIM_310460"/>
+    
+
+
+    <!-- http://OMIM_312080 -->
+
+    <Class rdf:about="http://OMIM_312080"/>
+    
+
+
+    <!-- http://OMIM_312750 -->
+
+    <Class rdf:about="http://OMIM_312750"/>
+    
+
+
+    <!-- http://OMIM_312920 -->
+
+    <Class rdf:about="http://OMIM_312920"/>
+    
+
+
+    <!-- http://OMIM_313500 -->
+
+    <Class rdf:about="http://OMIM_313500"/>
+    
+
+
+    <!-- http://OMIM_314550 -->
+
+    <Class rdf:about="http://OMIM_314550"/>
+    
+
+
+    <!-- http://OMIM_600121 -->
+
+    <Class rdf:about="http://OMIM_600121"/>
+    
+
+
+    <!-- http://OMIM_600156 -->
+
+    <Class rdf:about="http://OMIM_600156"/>
+    
+
+
+    <!-- http://OMIM_600510 -->
+
+    <Class rdf:about="http://OMIM_600510"/>
+    
+
+
+    <!-- http://OMIM_600962 -->
+
+    <Class rdf:about="http://OMIM_600962"/>
+    
+
+
+    <!-- http://OMIM_601101 -->
+
+    <Class rdf:about="http://OMIM_601101"/>
+    
+
+
+    <!-- http://OMIM_601144 -->
+
+    <Class rdf:about="http://OMIM_601144"/>
+    
+
+
+    <!-- http://OMIM_601371 -->
+
+    <Class rdf:about="http://OMIM_601371"/>
+    
+
+
+    <!-- http://OMIM_601407 -->
+
+    <Class rdf:about="http://OMIM_601407"/>
+    
+
+
+    <!-- http://OMIM_601457 -->
+
+    <Class rdf:about="http://OMIM_601457"/>
+    
+
+
+    <!-- http://OMIM_601665 -->
+
+    <Class rdf:about="http://OMIM_601665"/>
+    
+
+
+    <!-- http://OMIM_601885 -->
+
+    <Class rdf:about="http://OMIM_601885"/>
+    
+
+
+    <!-- http://OMIM_601977 -->
+
+    <Class rdf:about="http://OMIM_601977"/>
+    
+
+
+    <!-- http://OMIM_602390 -->
+
+    <Class rdf:about="http://OMIM_602390"/>
+    
+
+
+    <!-- http://OMIM_602522 -->
+
+    <Class rdf:about="http://OMIM_602522"/>
+    
+
+
+    <!-- http://OMIM_602639 -->
+
+    <Class rdf:about="http://OMIM_602639"/>
+    
+
+
+    <!-- http://OMIM_602722 -->
+
+    <Class rdf:about="http://OMIM_602722"/>
+    
+
+
+    <!-- http://OMIM_603165 -->
+
+    <Class rdf:about="http://OMIM_603165"/>
+    
+
+
+    <!-- http://OMIM_603221 -->
+
+    <Class rdf:about="http://OMIM_603221"/>
+    
+
+
+    <!-- http://OMIM_603552 -->
+
+    <Class rdf:about="http://OMIM_603552"/>
+    
+
+
+    <!-- http://OMIM_603694 -->
+
+    <Class rdf:about="http://OMIM_603694"/>
+    
+
+
+    <!-- http://OMIM_603965 -->
+
+    <Class rdf:about="http://OMIM_603965"/>
+    
+
+
+    <!-- http://OMIM_604229 -->
+
+    <Class rdf:about="http://OMIM_604229"/>
+    
+
+
+    <!-- http://OMIM_604286 -->
+
+    <Class rdf:about="http://OMIM_604286"/>
+    
+
+
+    <!-- http://OMIM_604329 -->
+
+    <Class rdf:about="http://OMIM_604329"/>
+    
+
+
+    <!-- http://OMIM_604387 -->
+
+    <Class rdf:about="http://OMIM_604387"/>
+    
+
+
+    <!-- http://OMIM_605027 -->
+
+    <Class rdf:about="http://OMIM_605027"/>
+    
+
+
+    <!-- http://OMIM_605244 -->
+
+    <Class rdf:about="http://OMIM_605244"/>
+    
+
+
+    <!-- http://OMIM_605376 -->
+
+    <Class rdf:about="http://OMIM_605376"/>
+    
+
+
+    <!-- http://OMIM_605480 -->
+
+    <Class rdf:about="http://OMIM_605480"/>
+    
+
+
+    <!-- http://OMIM_605583 -->
+
+    <Class rdf:about="http://OMIM_605583"/>
+    
+
+
+    <!-- http://OMIM_605724 -->
+
+    <Class rdf:about="http://OMIM_605724"/>
+    
+
+
+    <!-- http://OMIM_606215 -->
+
+    <Class rdf:about="http://OMIM_606215"/>
+    
+
+
+    <!-- http://OMIM_606263 -->
+
+    <Class rdf:about="http://OMIM_606263"/>
+    
+
+
+    <!-- http://OMIM_606325 -->
+
+    <Class rdf:about="http://OMIM_606325"/>
+    
+
+
+    <!-- http://OMIM_607039 -->
+
+    <Class rdf:about="http://OMIM_607039"/>
+    
+
+
+    <!-- http://OMIM_607271 -->
+
+    <Class rdf:about="http://OMIM_607271"/>
+    
+
+
+    <!-- http://OMIM_607339 -->
+
+    <Class rdf:about="http://OMIM_607339"/>
+    
+
+
+    <!-- http://OMIM_607485 -->
+
+    <Class rdf:about="http://OMIM_607485"/>
+    
+
+
+    <!-- http://OMIM_607834 -->
+
+    <Class rdf:about="http://OMIM_607834"/>
+    
+
+
+    <!-- http://OMIM_608036 -->
+
+    <Class rdf:about="http://OMIM_608036"/>
+    
+
+
+    <!-- http://OMIM_608224 -->
+
+    <Class rdf:about="http://OMIM_608224"/>
+    
+
+
+    <!-- http://OMIM_608316 -->
+
+    <Class rdf:about="http://OMIM_608316"/>
+    
+
+
+    <!-- http://OMIM_608380 -->
+
+    <Class rdf:about="http://OMIM_608380"/>
+    
+
+
+    <!-- http://OMIM_608437 -->
+
+    <Class rdf:about="http://OMIM_608437"/>
+    
+
+
+    <!-- http://OMIM_608462 -->
+
+    <Class rdf:about="http://OMIM_608462"/>
+    
+
+
+    <!-- http://OMIM_608516 -->
+
+    <Class rdf:about="http://OMIM_608516"/>
+    
+
+
+    <!-- http://OMIM_608656 -->
+
+    <Class rdf:about="http://OMIM_608656"/>
+    
+
+
+    <!-- http://OMIM_608658 -->
+
+    <Class rdf:about="http://OMIM_608658"/>
+    
+
+
+    <!-- http://OMIM_608742 -->
+
+    <Class rdf:about="http://OMIM_608742"/>
+    
+
+
+    <!-- http://OMIM_608804 -->
+
+    <Class rdf:about="http://OMIM_608804"/>
+    
+
+
+    <!-- http://OMIM_608903 -->
+
+    <Class rdf:about="http://OMIM_608903"/>
+    
+
+
+    <!-- http://OMIM_608904 -->
+
+    <Class rdf:about="http://OMIM_608904"/>
+    
+
+
+    <!-- http://OMIM_608905 -->
+
+    <Class rdf:about="http://OMIM_608905"/>
+    
+
+
+    <!-- http://OMIM_608935 -->
+
+    <Class rdf:about="http://OMIM_608935"/>
+    
+
+
+    <!-- http://OMIM_609402 -->
+
+    <Class rdf:about="http://OMIM_609402"/>
+    
+
+
+    <!-- http://OMIM_609403 -->
+
+    <Class rdf:about="http://OMIM_609403"/>
+    
+
+
+    <!-- http://OMIM_609404 -->
+
+    <Class rdf:about="http://OMIM_609404"/>
+    
+
+
+    <!-- http://OMIM_609460 -->
+
+    <Class rdf:about="http://OMIM_609460"/>
+    
+
+
+    <!-- http://OMIM_609524 -->
+
+    <Class rdf:about="http://OMIM_609524"/>
+    
+
+
+    <!-- http://OMIM_609566 -->
+
+    <Class rdf:about="http://OMIM_609566"/>
+    
+
+
+    <!-- http://OMIM_609621 -->
+
+    <Class rdf:about="http://OMIM_609621"/>
+    
+
+
+    <!-- http://OMIM_609745 -->
+
+    <Class rdf:about="http://OMIM_609745"/>
+    
+
+
+    <!-- http://OMIM_609903 -->
+
+    <Class rdf:about="http://OMIM_609903"/>
+    
+
+
+    <!-- http://OMIM_609939 -->
+
+    <Class rdf:about="http://OMIM_609939"/>
+    
+
+
+    <!-- http://OMIM_610017 -->
+
+    <Class rdf:about="http://OMIM_610017"/>
+    
+
+
+    <!-- http://OMIM_610065 -->
+
+    <Class rdf:about="http://OMIM_610065"/>
+    
+
+
+    <!-- http://OMIM_610066 -->
+
+    <Class rdf:about="http://OMIM_610066"/>
+    
+
+
+    <!-- http://OMIM_610071 -->
+
+    <Class rdf:about="http://OMIM_610071"/>
+    
+
+
+    <!-- http://OMIM_610187 -->
+
+    <Class rdf:about="http://OMIM_610187"/>
+    
+
+
+    <!-- http://OMIM_610205 -->
+
+    <Class rdf:about="http://OMIM_610205"/>
+    
+
+
+    <!-- http://OMIM_610246 -->
+
+    <Class rdf:about="http://OMIM_610246"/>
+    
+
+
+    <!-- http://OMIM_610253 -->
+
+    <Class rdf:about="http://OMIM_610253"/>
+    
+
+
+    <!-- http://OMIM_610260 -->
+
+    <Class rdf:about="http://OMIM_610260"/>
+    
+
+
+    <!-- http://OMIM_610261 -->
+
+    <Class rdf:about="http://OMIM_610261"/>
+    
+
+
+    <!-- http://OMIM_610321 -->
+
+    <Class rdf:about="http://OMIM_610321"/>
+    
+
+
+    <!-- http://OMIM_610374 -->
+
+    <Class rdf:about="http://OMIM_610374"/>
+    
+
+
+    <!-- http://OMIM_610840 -->
+
+    <Class rdf:about="http://OMIM_610840"/>
+    
+
+
+    <!-- http://OMIM_610878 -->
+
+    <Class rdf:about="http://OMIM_610878"/>
+    
+
+
+    <!-- http://OMIM_610913 -->
+
+    <Class rdf:about="http://OMIM_610913"/>
+    
+
+
+    <!-- http://OMIM_610926 -->
+
+    <Class rdf:about="http://OMIM_610926"/>
+    
+
+
+    <!-- http://OMIM_610997 -->
+
+    <Class rdf:about="http://OMIM_610997"/>
+    
+
+
+    <!-- http://OMIM_611228 -->
+
+    <Class rdf:about="http://OMIM_611228"/>
+    
+
+
+    <!-- http://OMIM_611263 -->
+
+    <Class rdf:about="http://OMIM_611263"/>
+    
+
+
+    <!-- http://OMIM_611498 -->
+
+    <Class rdf:about="http://OMIM_611498"/>
+    
+
+
+    <!-- http://OMIM_611553 -->
+
+    <Class rdf:about="http://OMIM_611553"/>
+    
+
+
+    <!-- http://OMIM_611644 -->
+
+    <Class rdf:about="http://OMIM_611644"/>
+    
+
+
+    <!-- http://OMIM_611884 -->
+
+    <Class rdf:about="http://OMIM_611884"/>
+    
+
+
+    <!-- http://OMIM_611955 -->
+
+    <Class rdf:about="http://OMIM_611955"/>
+    
+
+
+    <!-- http://OMIM_611958 -->
+
+    <Class rdf:about="http://OMIM_611958"/>
+    
+
+
+    <!-- http://OMIM_612016 -->
+
+    <Class rdf:about="http://OMIM_612016"/>
+    
+
+
+    <!-- http://OMIM_612244 -->
+
+    <Class rdf:about="http://OMIM_612244"/>
+    
+
+
+    <!-- http://OMIM_612254 -->
+
+    <Class rdf:about="http://OMIM_612254"/>
+    
+
+
+    <!-- http://OMIM_612311 -->
+
+    <Class rdf:about="http://OMIM_612311"/>
+    
+
+
+    <!-- http://OMIM_612312 -->
+
+    <Class rdf:about="http://OMIM_612312"/>
+    
+
+
+    <!-- http://OMIM_612378 -->
+
+    <Class rdf:about="http://OMIM_612378"/>
+    
+
+
+    <!-- http://OMIM_612438 -->
+
+    <Class rdf:about="http://OMIM_612438"/>
+    
+
+
+    <!-- http://OMIM_612595 -->
+
+    <Class rdf:about="http://OMIM_612595"/>
+    
+
+
+    <!-- http://OMIM_612596 -->
+
+    <Class rdf:about="http://OMIM_612596"/>
+    
+
+
+    <!-- http://OMIM_612840 -->
+
+    <Class rdf:about="http://OMIM_612840"/>
+    
+
+
+    <!-- http://OMIM_613038 -->
+
+    <Class rdf:about="http://OMIM_613038"/>
+    
+
+
+    <!-- http://OMIM_613145 -->
+
+    <Class rdf:about="http://OMIM_613145"/>
+    
+
+
+    <!-- http://OMIM_613155 -->
+
+    <Class rdf:about="http://OMIM_613155"/>
+    
+
+
+    <!-- http://OMIM_613252 -->
+
+    <Class rdf:about="http://OMIM_613252"/>
+    
+
+
+    <!-- http://OMIM_613424 -->
+
+    <Class rdf:about="http://OMIM_613424"/>
+    
+
+
+    <!-- http://OMIM_613470 -->
+
+    <Class rdf:about="http://OMIM_613470"/>
+    
+
+
+    <!-- http://OMIM_613494 -->
+
+    <Class rdf:about="http://OMIM_613494"/>
+    
+
+
+    <!-- http://OMIM_613517 -->
+
+    <Class rdf:about="http://OMIM_613517"/>
+    
+
+
+    <!-- http://OMIM_613684 -->
+
+    <Class rdf:about="http://OMIM_613684"/>
+    
+
+
+    <!-- http://OMIM_613690 -->
+
+    <Class rdf:about="http://OMIM_613690"/>
+    
+
+
+    <!-- http://OMIM_613718 -->
+
+    <Class rdf:about="http://OMIM_613718"/>
+    
+
+
+    <!-- http://OMIM_613751 -->
+
+    <Class rdf:about="http://OMIM_613751"/>
+    
+
+
+    <!-- http://OMIM_613982 -->
+
+    <Class rdf:about="http://OMIM_613982"/>
+    
+
+
+    <!-- http://OMIM_613985 -->
+
+    <Class rdf:about="http://OMIM_613985"/>
+    
+
+
+    <!-- http://OMIM_613986 -->
+
+    <Class rdf:about="http://OMIM_613986"/>
+    
+
+
+    <!-- http://OMIM_614203 -->
+
+    <Class rdf:about="http://OMIM_614203"/>
+    
+
+
+    <!-- http://OMIM_614208 -->
+
+    <Class rdf:about="http://OMIM_614208"/>
+    
+
+
+    <!-- http://OMIM_614223 -->
+
+    <Class rdf:about="http://OMIM_614223"/>
+    
+
+
+    <!-- http://OMIM_614249 -->
+
+    <Class rdf:about="http://OMIM_614249"/>
+    
+
+
+    <!-- http://OMIM_614286 -->
+
+    <Class rdf:about="http://OMIM_614286"/>
+    
+
+
+    <!-- http://OMIM_614329 -->
+
+    <Class rdf:about="http://OMIM_614329"/>
+    
+
+
+    <!-- http://OMIM_614420 -->
+
+    <Class rdf:about="http://OMIM_614420"/>
+    
+
+
+    <!-- http://OMIM_614430 -->
+
+    <Class rdf:about="http://OMIM_614430"/>
+    
+
+
+    <!-- http://OMIM_614521 -->
+
+    <Class rdf:about="http://OMIM_614521"/>
+    
+
+
+    <!-- http://OMIM_614592 -->
+
+    <Class rdf:about="http://OMIM_614592"/>
+    
+
+
+    <!-- http://OMIM_614619 -->
+
+    <Class rdf:about="http://OMIM_614619"/>
+    
+
+
+    <!-- http://OMIM_614699 -->
+
+    <Class rdf:about="http://OMIM_614699"/>
+    
+
+
+    <!-- http://OMIM_614779 -->
+
+    <Class rdf:about="http://OMIM_614779"/>
+    
+
+
+    <!-- http://OMIM_614945 -->
+
+    <Class rdf:about="http://OMIM_614945"/>
+    
+
+
+    <!-- http://OMIM_615219 -->
+
+    <Class rdf:about="http://OMIM_615219"/>
+    
+
+
+    <!-- http://OMIM_615314 -->
+
+    <Class rdf:about="http://OMIM_615314"/>
+    
+
+
+    <!-- http://OMIM_615343 -->
+
+    <Class rdf:about="http://OMIM_615343"/>
+    
+
+
+    <!-- http://OMIM_615355 -->
+
+    <Class rdf:about="http://OMIM_615355"/>
+    
+
+
+    <!-- http://OMIM_615451 -->
+
+    <Class rdf:about="http://OMIM_615451"/>
+    
+
+
+    <!-- http://OMIM_615510 -->
+
+    <Class rdf:about="http://OMIM_615510"/>
+    
+
+
+    <!-- http://OMIM_615577 -->
+
+    <Class rdf:about="http://OMIM_615577"/>
+    
+
+
+    <!-- http://OMIM_615982 -->
+
+    <Class rdf:about="http://OMIM_615982"/>
+    
+
+
+    <!-- http://OMIM_616037 -->
+
+    <Class rdf:about="http://OMIM_616037"/>
+    
+
+
+    <!-- http://OMIM_616367 -->
+
+    <Class rdf:about="http://OMIM_616367"/>
+    
+
+
+    <!-- http://OMIM_618273 -->
+
+    <Class rdf:about="http://OMIM_618273"/>
+    
+
+
+    <!-- http://100038489 -->
+
+    <Class rdf:about="http://100038489">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609403"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609404"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://100502698 -->
+
+    <Class rdf:about="http://100502698">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_300809"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613145"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://102294 -->
+
+    <Class rdf:about="http://102294">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_210370"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://102774 -->
+
+    <Class rdf:about="http://102774">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_615982"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://103199 -->
+
+    <Class rdf:about="http://103199">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_611228"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://103213 -->
+
+    <Class rdf:about="http://103213">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609903"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://104374 -->
+
+    <Class rdf:about="http://104374">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601371"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://104759 -->
+
+    <Class rdf:about="http://104759">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_152700"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://105193 -->
+
+    <Class rdf:about="http://105193">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_254780"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://106042 -->
+
+    <Class rdf:about="http://106042">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_268310"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://107693 -->
+
+    <Class rdf:about="http://107693">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_164210"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://107944 -->
+
+    <Class rdf:about="http://107944">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610066"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://108101 -->
+
+    <Class rdf:about="http://108101">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612840"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://110082 -->
+
+    <Class rdf:about="http://110082">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614779"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://110115 -->
+
+    <Class rdf:about="http://110115">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_201810"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://110157 -->
+
+    <Class rdf:about="http://110157">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_611553"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://110784 -->
+
+    <Class rdf:about="http://110784">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_177735"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11444 -->
+
+    <Class rdf:about="http://11444">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608903"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11464 -->
+
+    <Class rdf:about="http://11464">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613424"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11481 -->
+
+    <Class rdf:about="http://11481">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_208530"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605376"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11540 -->
+
+    <Class rdf:about="http://11540">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_310460"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_603221"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11569 -->
+
+    <Class rdf:about="http://11569">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_611644"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11611 -->
+
+    <Class rdf:about="http://11611">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_259900"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11647 -->
+
+    <Class rdf:about="http://11647">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_146300"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11652 -->
+
+    <Class rdf:about="http://11652">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_125853"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11704 -->
+
+    <Class rdf:about="http://11704">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_301200"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11774 -->
+
+    <Class rdf:about="http://11774">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_185050"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11776 -->
+
+    <Class rdf:about="http://11776">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_185050"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11819 -->
+
+    <Class rdf:about="http://11819">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610187"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11835 -->
+
+    <Class rdf:about="http://11835">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_125853"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://118454 -->
+
+    <Class rdf:about="http://118454">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608804"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://11977 -->
+
+    <Class rdf:about="http://11977">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_309400"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12006 -->
+
+    <Class rdf:about="http://12006">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_615314"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12036 -->
+
+    <Class rdf:about="http://12036">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_248600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12154 -->
+
+    <Class rdf:about="http://12154">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_187500"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12159 -->
+
+    <Class rdf:about="http://12159">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_606215"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12168 -->
+
+    <Class rdf:about="http://12168">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_615343"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12190 -->
+
+    <Class rdf:about="http://12190">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605724"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12370 -->
+
+    <Class rdf:about="http://12370">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_607271"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12389 -->
+
+    <Class rdf:about="http://12389">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_114480"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12575 -->
+
+    <Class rdf:about="http://12575">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608437"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12577 -->
+
+    <Class rdf:about="http://12577">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609402"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12627 -->
+
+    <Class rdf:about="http://12627">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605376"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613751"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12667 -->
+
+    <Class rdf:about="http://12667">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_192430"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12829 -->
+
+    <Class rdf:about="http://12829">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_203780"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12846 -->
+
+    <Class rdf:about="http://12846">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609404"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12876 -->
+
+    <Class rdf:about="http://12876">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601665"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://12914 -->
+
+    <Class rdf:about="http://12914">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_180849"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613684"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13040 -->
+
+    <Class rdf:about="http://13040">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_310200"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13075 -->
+
+    <Class rdf:about="http://13075">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_139300"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13078 -->
+
+    <Class rdf:about="http://13078">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_231300"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13162 -->
+
+    <Class rdf:about="http://13162">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608905"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13171 -->
+
+    <Class rdf:about="http://13171">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_246900"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_248600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13400 -->
+
+    <Class rdf:about="http://13400">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_160900"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13411 -->
+
+    <Class rdf:about="http://13411">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_306955"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_611884"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13419 -->
+
+    <Class rdf:about="http://13419">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610066"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13555 -->
+
+    <Class rdf:about="http://13555">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_270150"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13559 -->
+
+    <Class rdf:about="http://13559">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_615219"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13607 -->
+
+    <Class rdf:about="http://13607">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_305100"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13616 -->
+
+    <Class rdf:about="http://13616">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_611644"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13617 -->
+
+    <Class rdf:about="http://13617">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_192430"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_616367"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13641 -->
+
+    <Class rdf:about="http://13641">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_304110"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13717 -->
+
+    <Class rdf:about="http://13717">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_145500"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608742"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13801 -->
+
+    <Class rdf:about="http://13801">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_104500"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13805 -->
+
+    <Class rdf:about="http://13805">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601101"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13819 -->
+
+    <Class rdf:about="http://13819">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_267450"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13866 -->
+
+    <Class rdf:about="http://13866">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_600156"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://13982 -->
+
+    <Class rdf:about="http://13982">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_114480"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://140475 -->
+
+    <Class rdf:about="http://140475">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_602522"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://140491 -->
+
+    <Class rdf:about="http://140491">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_125853"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_603694"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://140494 -->
+
+    <Class rdf:about="http://140494">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_602722"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14102 -->
+
+    <Class rdf:about="http://14102">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605480"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610066"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14155 -->
+
+    <Class rdf:about="http://14155">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601407"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_603694"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14160 -->
+
+    <Class rdf:about="http://14160">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_106280"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14184 -->
+
+    <Class rdf:about="http://14184">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_100800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_187601"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14228 -->
+
+    <Class rdf:about="http://14228">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_300068"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14232 -->
+
+    <Class rdf:about="http://14232">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_119800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14233 -->
+
+    <Class rdf:about="http://14233">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_274600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14235 -->
+
+    <Class rdf:about="http://14235">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_114550"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14365 -->
+
+    <Class rdf:about="http://14365">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_123155"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_615219"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14377 -->
+
+    <Class rdf:about="http://14377">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_232200"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14405 -->
+
+    <Class rdf:about="http://14405">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_190400"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14464 -->
+
+    <Class rdf:about="http://14464">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610261"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14563 -->
+
+    <Class rdf:about="http://14563">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_200700"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610017"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14585 -->
+
+    <Class rdf:about="http://14585">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608462"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14611 -->
+
+    <Class rdf:about="http://14611">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601885"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14658 -->
+
+    <Class rdf:about="http://14658">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614619"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14751 -->
+
+    <Class rdf:about="http://14751">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613470"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14791 -->
+
+    <Class rdf:about="http://14791">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_211180"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://14972 -->
+
+    <Class rdf:about="http://14972">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_160750"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://15171 -->
+
+    <Class rdf:about="http://15171">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614223"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://15209 -->
+
+    <Class rdf:about="http://15209">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_221750"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613986"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://15447 -->
+
+    <Class rdf:about="http://15447">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_261600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610260"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://15487 -->
+
+    <Class rdf:about="http://15487">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_264300"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://15550 -->
+
+    <Class rdf:about="http://15550">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_607834"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://15560 -->
+
+    <Class rdf:about="http://15560">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608036"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://15930 -->
+
+    <Class rdf:about="http://15930">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609402"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609404"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://15980 -->
+
+    <Class rdf:about="http://15980">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_222100"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16007 -->
+
+    <Class rdf:about="http://16007">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_108800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16019 -->
+
+    <Class rdf:about="http://16019">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605027"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16033 -->
+
+    <Class rdf:about="http://16033">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_152700"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_300809"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16147 -->
+
+    <Class rdf:about="http://16147">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_167750"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16195 -->
+
+    <Class rdf:about="http://16195">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_180300"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16331 -->
+
+    <Class rdf:about="http://16331">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_606263"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609939"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16449 -->
+
+    <Class rdf:about="http://16449">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610205"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16451 -->
+
+    <Class rdf:about="http://16451">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_300809"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16477 -->
+
+    <Class rdf:about="http://16477">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605480"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609939"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614420"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16480 -->
+
+    <Class rdf:about="http://16480">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_113800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16511 -->
+
+    <Class rdf:about="http://16511">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609621"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16523 -->
+
+    <Class rdf:about="http://16523">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_607339"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608316"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16596 -->
+
+    <Class rdf:about="http://16596">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613985"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16653 -->
+
+    <Class rdf:about="http://16653">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608656"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608658"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_611955"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_611958"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16664 -->
+
+    <Class rdf:about="http://16664">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_131760"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16666 -->
+
+    <Class rdf:about="http://16666">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_600962"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16678 -->
+
+    <Class rdf:about="http://16678">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_113800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16846 -->
+
+    <Class rdf:about="http://16846">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_603694"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16847 -->
+
+    <Class rdf:about="http://16847">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601407"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://16905 -->
+
+    <Class rdf:about="http://16905">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_200400"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://170743 -->
+
+    <Class rdf:about="http://170743">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614420"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17158 -->
+
+    <Class rdf:about="http://17158">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609903"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17257 -->
+
+    <Class rdf:about="http://17257">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_312750"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17294 -->
+
+    <Class rdf:about="http://17294">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_302060"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17684 -->
+
+    <Class rdf:about="http://17684">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_187500"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17695 -->
+
+    <Class rdf:about="http://17695">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_176807"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608658"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17701 -->
+
+    <Class rdf:about="http://17701">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_313500"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_602639"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17702 -->
+
+    <Class rdf:about="http://17702">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609566"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17863 -->
+
+    <Class rdf:about="http://17863">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_187950"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_254450"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601977"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614521"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17869 -->
+
+    <Class rdf:about="http://17869">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_113970"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17886 -->
+
+    <Class rdf:about="http://17886">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_155100"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17888 -->
+
+    <Class rdf:about="http://17888">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613252"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17918 -->
+
+    <Class rdf:about="http://17918">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_214450"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17919 -->
+
+    <Class rdf:about="http://17919">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_251850"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://17926 -->
+
+    <Class rdf:about="http://17926">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609745"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18004 -->
+
+    <Class rdf:about="http://18004">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_263200"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18023 -->
+
+    <Class rdf:about="http://18023">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_114550"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18034 -->
+
+    <Class rdf:about="http://18034">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_615577"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18091 -->
+
+    <Class rdf:about="http://18091">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_108900"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18095 -->
+
+    <Class rdf:about="http://18095">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608658"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_611955"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18127 -->
+
+    <Class rdf:about="http://18127">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_604329"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18194 -->
+
+    <Class rdf:about="http://18194">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_302950"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18205 -->
+
+    <Class rdf:about="http://18205">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_108800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18419 -->
+
+    <Class rdf:about="http://18419">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614945"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18481 -->
+
+    <Class rdf:about="http://18481">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_300558"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18508 -->
+
+    <Class rdf:about="http://18508">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_137750"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_604229"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18511 -->
+
+    <Class rdf:about="http://18511">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610926"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18566 -->
+
+    <Class rdf:about="http://18566">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610065"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18595 -->
+
+    <Class rdf:about="http://18595">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_142340"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18626 -->
+
+    <Class rdf:about="http://18626">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612312"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18671 -->
+
+    <Class rdf:about="http://18671">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612244"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18706 -->
+
+    <Class rdf:about="http://18706">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_114480"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18741 -->
+
+    <Class rdf:about="http://18741">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_180500"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18763 -->
+
+    <Class rdf:about="http://18763">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_173900"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18823 -->
+
+    <Class rdf:about="http://18823">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_312080"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_312920"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://18970 -->
+
+    <Class rdf:about="http://18970">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610066"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612378"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://19015 -->
+
+    <Class rdf:about="http://19015">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_125853"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://19016 -->
+
+    <Class rdf:about="http://19016">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609903"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612378"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614420"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://19084 -->
+
+    <Class rdf:about="http://19084">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605244"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://19090 -->
+
+    <Class rdf:about="http://19090">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601457"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://19206 -->
+
+    <Class rdf:about="http://19206">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_155255"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://19211 -->
+
+    <Class rdf:about="http://19211">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608656"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610321"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://192119 -->
+
+    <Class rdf:about="http://192119">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_188400"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://192236 -->
+
+    <Class rdf:about="http://192236">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_203300"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://19224 -->
+
+    <Class rdf:about="http://19224">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609403"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://19264 -->
+
+    <Class rdf:about="http://19264">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612378"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://19419 -->
+
+    <Class rdf:about="http://19419">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612378"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614420"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://19769 -->
+
+    <Class rdf:about="http://19769">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_615355"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20181 -->
+
+    <Class rdf:about="http://20181">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609903"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609939"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20239 -->
+
+    <Class rdf:about="http://20239">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_183090"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20271 -->
+
+    <Class rdf:about="http://20271">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601144"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20317 -->
+
+    <Class rdf:about="http://20317">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613982"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20371 -->
+
+    <Class rdf:about="http://20371">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_304790"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20429 -->
+
+    <Class rdf:about="http://20429">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_127300"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20497 -->
+
+    <Class rdf:about="http://20497">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_263800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20516 -->
+
+    <Class rdf:about="http://20516">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_213600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20528 -->
+
+    <Class rdf:about="http://20528">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_603694"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20563 -->
+
+    <Class rdf:about="http://20563">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_606325"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20614 -->
+
+    <Class rdf:about="http://20614">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_603694"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608905"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20675 -->
+
+    <Class rdf:about="http://20675">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_236600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://207209 -->
+
+    <Class rdf:about="http://207209">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_259700"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20779 -->
+
+    <Class rdf:about="http://20779">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_194050"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20845 -->
+
+    <Class rdf:about="http://20845">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_202010"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://20927 -->
+
+    <Class rdf:about="http://20927">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610374"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21267 -->
+
+    <Class rdf:about="http://21267">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_176270"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21380 -->
+
+    <Class rdf:about="http://21380">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_192430"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21389 -->
+
+    <Class rdf:about="http://21389">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_277300"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21405 -->
+
+    <Class rdf:about="http://21405">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_261600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608036"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://214498 -->
+
+    <Class rdf:about="http://214498">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610071"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://214766 -->
+
+    <Class rdf:about="http://214766">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613751"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://216227 -->
+
+    <Class rdf:about="http://216227">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605583"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://216343 -->
+
+    <Class rdf:about="http://216343">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608516"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://217344 -->
+
+    <Class rdf:about="http://217344">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_600962"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21813 -->
+
+    <Class rdf:about="http://21813">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610997"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21825 -->
+
+    <Class rdf:about="http://21825">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_270150"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21834 -->
+
+    <Class rdf:about="http://21834">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612311"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21835 -->
+
+    <Class rdf:about="http://21835">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_143465"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608904"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21926 -->
+
+    <Class rdf:about="http://21926">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_178500"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612595"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612596"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21937 -->
+
+    <Class rdf:about="http://21937">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_142680"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21947 -->
+
+    <Class rdf:about="http://21947">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609903"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://21954 -->
+
+    <Class rdf:about="http://21954">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613690"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://22061 -->
+
+    <Class rdf:about="http://22061">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_109350"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://22068 -->
+
+    <Class rdf:about="http://22068">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_603965"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://22141 -->
+
+    <Class rdf:about="http://22141">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601665"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://22153 -->
+
+    <Class rdf:about="http://22153">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612438"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://22164 -->
+
+    <Class rdf:about="http://22164">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_265400"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://22228 -->
+
+    <Class rdf:about="http://22228">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_174050"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://22270 -->
+
+    <Class rdf:about="http://22270">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_314550"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610878"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://22421 -->
+
+    <Class rdf:about="http://22421">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_228930"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://22431 -->
+
+    <Class rdf:about="http://22431">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_194080"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610187"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://224697 -->
+
+    <Class rdf:about="http://224697">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_277600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://22591 -->
+
+    <Class rdf:about="http://22591">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_278720"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608935"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://22762 -->
+
+    <Class rdf:about="http://22762">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_142340"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://228061 -->
+
+    <Class rdf:about="http://228061">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_600121"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://228094 -->
+
+    <Class rdf:about="http://228094">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608380"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://230908 -->
+
+    <Class rdf:about="http://230908">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_607485"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://230909 -->
+
+    <Class rdf:about="http://230909">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605376"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_606325"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://231134 -->
+
+    <Class rdf:about="http://231134">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_254300"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://231602 -->
+
+    <Class rdf:about="http://231602">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608224"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://232333 -->
+
+    <Class rdf:about="http://232333">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_181500"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://233651 -->
+
+    <Class rdf:about="http://233651">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610840"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://236794 -->
+
+    <Class rdf:about="http://236794">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_300243"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://24051 -->
+
+    <Class rdf:about="http://24051">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_604286"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://243382 -->
+
+    <Class rdf:about="http://243382">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_246900"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_248600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://243853 -->
+
+    <Class rdf:about="http://243853">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_159050"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613155"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://244059 -->
+
+    <Class rdf:about="http://244059">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_214800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://245555 -->
+
+    <Class rdf:about="http://245555">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_300912"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://246190 -->
+
+    <Class rdf:about="http://246190">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_607039"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://246788 -->
+
+    <Class rdf:about="http://246788">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_603165"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://259302 -->
+
+    <Class rdf:about="http://259302">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_181500"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://26357 -->
+
+    <Class rdf:about="http://26357">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_300752"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://26409 -->
+
+    <Class rdf:about="http://26409">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_194200"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://26413 -->
+
+    <Class rdf:about="http://26413">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_261800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://26903 -->
+
+    <Class rdf:about="http://26903">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_253601"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://269587 -->
+
+    <Class rdf:about="http://269587">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_130600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://27060 -->
+
+    <Class rdf:about="http://27060">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_259700"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://27410 -->
+
+    <Class rdf:about="http://27410">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_265120"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610913"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://276891 -->
+
+    <Class rdf:about="http://276891">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613145"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://30962 -->
+
+    <Class rdf:about="http://30962">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_220100"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://319387 -->
+
+    <Class rdf:about="http://319387">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608904"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://319757 -->
+
+    <Class rdf:about="http://319757">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_130700"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_155255"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://320183 -->
+
+    <Class rdf:about="http://320183">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613718"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://328572 -->
+
+    <Class rdf:about="http://328572">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609939"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://329872 -->
+
+    <Class rdf:about="http://329872">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_142340"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://380718 -->
+
+    <Class rdf:about="http://380718">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614430"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://381305 -->
+
+    <Class rdf:about="http://381305">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610065"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://381738 -->
+
+    <Class rdf:about="http://381738">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605376"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://387285 -->
+
+    <Class rdf:about="http://387285">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614223"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://50720 -->
+
+    <Class rdf:about="http://50720">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_270550"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://51938 -->
+
+    <Class rdf:about="http://51938">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_306955"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://52028 -->
+
+    <Class rdf:about="http://52028">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601665"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://53416 -->
+
+    <Class rdf:about="http://53416">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_263800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://54167 -->
+
+    <Class rdf:about="http://54167">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613494"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614699"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://54354 -->
+
+    <Class rdf:about="http://54354">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605480"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://54403 -->
+
+    <Class rdf:about="http://54403">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_267200"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://544696 -->
+
+    <Class rdf:about="http://544696">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_306955"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_606325"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614779"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://54721 -->
+
+    <Class rdf:about="http://54721">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601665"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://56208 -->
+
+    <Class rdf:about="http://56208">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609903"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612254"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://56318 -->
+
+    <Class rdf:about="http://56318">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_608656"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://56527 -->
+
+    <Class rdf:about="http://56527">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_618273"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://56629 -->
+
+    <Class rdf:about="http://56629">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_601371"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://57080 -->
+
+    <Class rdf:about="http://57080">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_194050"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://57916 -->
+
+    <Class rdf:about="http://57916">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613145"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://58799 -->
+
+    <Class rdf:about="http://58799">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614208"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614249"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614329"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://58994 -->
+
+    <Class rdf:about="http://58994">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_262600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613038"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://59287 -->
+
+    <Class rdf:about="http://59287">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_109800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://65114 -->
+
+    <Class rdf:about="http://65114">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614203"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://65255 -->
+
+    <Class rdf:about="http://65255">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609402"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614592"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://66106 -->
+
+    <Class rdf:about="http://66106">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_300066"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://668158 -->
+
+    <Class rdf:about="http://668158">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_236600"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://67358 -->
+
+    <Class rdf:about="http://67358">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614779"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://67426 -->
+
+    <Class rdf:about="http://67426">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612016"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://67931 -->
+
+    <Class rdf:about="http://67931">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_260400"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://68259 -->
+
+    <Class rdf:about="http://68259">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_611263"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://68794 -->
+
+    <Class rdf:about="http://68794">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609524"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://68916 -->
+
+    <Class rdf:about="http://68916">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_603694"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://69080 -->
+
+    <Class rdf:about="http://69080">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_615510"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://69453 -->
+
+    <Class rdf:about="http://69453">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613517"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://69585 -->
+
+    <Class rdf:about="http://69585">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_602390"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://69597 -->
+
+    <Class rdf:about="http://69597">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610246"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://70383 -->
+
+    <Class rdf:about="http://70383">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_220110"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://71586 -->
+
+    <Class rdf:about="http://71586">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610066"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612254"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613145"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://71707 -->
+
+    <Class rdf:about="http://71707">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_121800"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://71877 -->
+
+    <Class rdf:about="http://71877">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_254770"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://71913 -->
+
+    <Class rdf:about="http://71913">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_603165"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://72320 -->
+
+    <Class rdf:about="http://72320">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609460"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://723821 -->
+
+    <Class rdf:about="http://723821">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_312750"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://72565 -->
+
+    <Class rdf:about="http://72565">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_114550"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://73914 -->
+
+    <Class rdf:about="http://73914">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_222100"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://74025 -->
+
+    <Class rdf:about="http://74025">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_604387"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://74244 -->
+
+    <Class rdf:about="http://74244">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_605480"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_612378"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_614286"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://74342 -->
+
+    <Class rdf:about="http://74342">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_181500"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://74653 -->
+
+    <Class rdf:about="http://74653">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_307000"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://74732 -->
+
+    <Class rdf:about="http://74732">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_603552"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://74934 -->
+
+    <Class rdf:about="http://74934">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_615451"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://75533 -->
+
+    <Class rdf:about="http://75533">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_615219"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://75764 -->
+
+    <Class rdf:about="http://75764">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_227850"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://77582 -->
+
+    <Class rdf:about="http://77582">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_123155"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://77609 -->
+
+    <Class rdf:about="http://77609">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_616037"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://77683 -->
+
+    <Class rdf:about="http://77683">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610253"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://83396 -->
+
+    <Class rdf:about="http://83396">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_611498"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://93695 -->
+
+    <Class rdf:about="http://93695">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_600510"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://94245 -->
+
+    <Class rdf:about="http://94245">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_181500"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_185050"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://98386 -->
+
+    <Class rdf:about="http://98386">
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_609903"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_610065"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="http://is_associated_with"/>
+                <someValuesFrom rdf:resource="http://OMIM_613145"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.19) https://github.com/owlcs/owlapi -->
+
