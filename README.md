@@ -14,7 +14,7 @@ The purpose of this repository is to facilitate knowledge sharing, collaboration
 
 Here is the schedule for upcoming lectures and presentations:
 
-1. **06/03/2024:** [Topic]
+1. **11/03/2024:** [Topic]
    - Presenter: Pantelis Natsiavas
    - Agenda:
      - Introduction to the topic
