@@ -14,21 +14,14 @@ The purpose of this repository is to facilitate knowledge sharing, collaboration
 
 Here is the schedule for upcoming lectures and presentations:
 
-1. **11/03/2024:** [Topic]
-   - Presenter: Pantelis Natsiavas
+1. **27/03/2024:** [Topic]
+   - Presenter: Achilleas Chytas
    - Agenda:
      - Introduction to the topic
      - Discussion points
      - Q&A session
        
-2. **20/03/2024:** [Topic]
-   - Presenter: Grigoris Papapostolou
-   - Agenda:
-     - Introduction to the topic
-     - Discussion points
-     - Q&A session
-
-3. **03/04/2024:** [Topic]
+2. **03/04/2024:** [Topic]
    - Presenter: Christos Timamopoulos
    - Agenda:
      - Introduction to the topic
@@ -67,6 +60,25 @@ Here is the schedule for upcoming lectures and presentations:
 - **Materials:**
   - [Slides](./Intro-to-mOWL/mOWL.pptx)
   - [Hands-On Session](./Intro-to-mOWL)
+
+
+### Lecture: February 12, 2024
+
+- **Topic:** Semantic similarity and machine learning with ontologies
+- **Presenter:** Dr. Pantelis Natsiavas
+- **Agenda:**
+   - Introduction: Overview of the paper and its significance to our work
+   - Presentation: Key concepts and findings from the research paper
+       - Discussion of methodologies and results
+       - Identification of potential applications in our projects
+📝 Paper → Kulmanov M, Smaili FZ, Gao X, Hoehndorf R. Semantic similarity and machine learning with ontologies. Brief Bioinform. 2021 Jul 20;22(4):bbaa199. doi: 10.1093/bib/bbaa199. PMID: 33049044; PMCID: PMC8293838.
+
+
+### Lecture: March 21, 2024
+
+- **Topic:** My Derma - A medical app that detects skin diseases
+- **Presenter:** Grigoris Papapostolou
+
 
 ## Contributing
 
