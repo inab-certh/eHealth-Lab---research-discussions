@@ -8,6 +8,7 @@ Welcome to the Research Discussions repository! This repository contains supplem
 
 The purpose of this repository is to facilitate knowledge sharing, collaboration, and discussion among team members regarding ongoing research projects and innovative ideas. The purpose of these internal lectures is to focus on specific topics based on the interests of the speaker.
 
+
 ## Contents
 
 ### Scheduled Lectures
@@ -61,7 +62,6 @@ Here is the schedule for upcoming lectures and presentations:
   - [Slides](./Intro-to-mOWL/mOWL.pptx)
   - [Hands-On Session](./Intro-to-mOWL)
 
-
 ### Lecture: March 12, 2024
 
 - **Topic:** Semantic similarity and machine learning with ontologies
@@ -73,13 +73,12 @@ Here is the schedule for upcoming lectures and presentations:
        - Identification of potential applications in our projects
 📝 Paper → Kulmanov M, Smaili FZ, Gao X, Hoehndorf R. Semantic similarity and machine learning with ontologies. Brief Bioinform. 2021 Jul 20;22(4):bbaa199. doi: 10.1093/bib/bbaa199. PMID: 33049044; PMCID: PMC8293838.
 
-
 ### Lecture: March 21, 2024
 
 - **Topic:** My Derma - A medical app that detects skin diseases
 - **Presenter:** Grigoris Papapostolou
 
-
+---
 ## Contributing
 
 We encourage all team members to contribute to the repository by sharing presentation materials, slides, research papers, and relevant resources related to ongoing research topics. If you have any materials you would like to add, please follow the contribution guidelines outlined below.
