@@ -62,7 +62,7 @@ Here is the schedule for upcoming lectures and presentations:
   - [Hands-On Session](./Intro-to-mOWL)
 
 
-### Lecture: February 12, 2024
+### Lecture: March 12, 2024
 
 - **Topic:** Semantic similarity and machine learning with ontologies
 - **Presenter:** Dr. Pantelis Natsiavas
