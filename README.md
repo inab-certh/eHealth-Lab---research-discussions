@@ -16,11 +16,7 @@ The purpose of this repository is to facilitate knowledge sharing, collaboration
 Here is the schedule for upcoming lectures and presentations:
 
 1. **27/03/2024:** [Topic]
-   - Presenter: Achilleas Chytas
-   - Agenda:
-     - Introduction to the topic
-     - Discussion points
-     - Q&A session
+   
        
 2. **03/04/2024:** [Topic]
    - Presenter: Christos Timamopoulos
@@ -77,6 +73,17 @@ Here is the schedule for upcoming lectures and presentations:
 
 - **Topic:** My Derma - A medical app that detects skin diseases
 - **Presenter:** Grigoris Papapostolou
+- **Agenda:**
+   - Introduction: Overview of the application and use cases
+   - Presentation: Application and usage
+ 
+### Lecture: March 27, 2024
+
+- **Topic:** Hands-on παρουσίαση εργαλείου για μετατροπή σχεσιακών δεδομένων σε μορφή τριπλετών
+- **Presenter:** Achilleas Chytas
+- **Agenda:**
+   - Introduction
+   - Hands-on Session
 
 ---
 ## Contributing
