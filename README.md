@@ -86,7 +86,7 @@ Here is the schedule for upcoming lectures and presentations:
    - Hands-on Session
    - Use cases
 - **Materials:**
-  - [Hands-On Session](./Intro-to-mOWL)
+  - [Hands-On Session](./mOWL-2)
  
 ### Lecture: April 17, 2024
 
