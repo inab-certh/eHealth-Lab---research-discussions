@@ -73,8 +73,8 @@ Here is the schedule for upcoming lectures and presentations:
 - **Presenter:** Achilleas Chytas
 - **Agenda:**
    - Requirements:
-     - Να εγκαταστήσετε docker https://docs.docker.com/engine/install/
-     - Να κατεβάσετε και να τρέξετε το περιεχόμενο αυτού του https://github.com/ammar257ammar/KGConstruction-Training που έχει την εικόνα του docker που θα       χρησιμοποιήσουμε. 
+     - Εγκατάσταση [docker](https://docs.docker.com/engine/install/)
+     - Κατέβασμα και εκτέλεση της [εικόνας docker](https://github.com/ammar257ammar/KGConstruction-Training)
    - Introduction
    - Hands-on Session
  
