@@ -15,31 +15,21 @@ The purpose of this repository is to facilitate knowledge sharing, collaboration
 
 Here is the schedule for upcoming lectures and presentations:
 
-1. **27/03/2024:** [Topic]
-   
-       
-2. **03/04/2024:** [Topic]
-   - Presenter: Christos Timamopoulos
+1. **16/05/2024:** [Topic]
+   - Presenter: Dr. Alexandros Rekkas
    - Agenda:
      - Introduction to the topic
      - Discussion points
      - Q&A session
     
-4. **17/04/2024:** [Topic]
-   - Presenter: Anastasia Farmaki
+2. **30/05/2024:** [Topic]
+   - Presenter: Christos Timamopoulos
    - Agenda:
      - Introduction to the topic
      - Discussion points
      - Q&A session
 
-5. **15/05/2024:** [Topic]
-   - Presenter: Panos Bonotis
-   - Agenda:
-     - Introduction to the topic
-     - Discussion points
-     - Q&A session
-
-  
+ 
 ### Past Lectures
 
 ### Lecture: February 9, 2024
@@ -82,9 +72,44 @@ Here is the schedule for upcoming lectures and presentations:
 - **Topic:** Hands-on παρουσίαση εργαλείου για μετατροπή σχεσιακών δεδομένων σε μορφή τριπλετών
 - **Presenter:** Achilleas Chytas
 - **Agenda:**
+   - Requirements:
+     - Να εγκαταστήσετε docker https://docs.docker.com/engine/install/
+     - Να κατεβάσετε και να τρέξετε το περιεχόμενο αυτού του https://github.com/ammar257ammar/KGConstruction-Training που έχει την εικόνα του docker που θα       χρησιμοποιήσουμε. 
    - Introduction
    - Hands-on Session
+ 
+### Lecture: April 4, 2024
 
+- **Topic:** mOWL2
+- **Presenter:** Dr. Kalliopi Kastampolidou
+- **Agenda:**
+   - Hands-on Session
+   - Use cases
+- **Materials:**
+  - [Hands-On Session](./Intro-to-mOWL)
+ 
+### Lecture: April 17, 2024
+
+- **Topic:** Βασικές αρχές Φαρμακοκινητικής και Φαρμακοδυναμικής
+- **Presenter:** Anastasia Farmaki
+- **Agenda:**
+   - Introduction
+   - Key concepts and findings
+   - Discussion
+ 
+### Lecture: May 1, 2024
+
+- **Topic:** Data Capture in Research with REDCap: Exploring capabilities using the MyPal example
+- **Presenter:** Panos Bonotis
+- **Agenda:**
+   - Introduction
+   - Presenting REDCap
+   - MyPal use case
+   - Discussion
+- **Materials:**
+  - Eφαρμογή κινητού: [Play Store](https://play.google.com/store/apps/details?id=org.vumc.mycapplusbeta&pli=1) και [App Store](https://apps.apple.com/us/app/mycap/id6448734173)
+ 
+    
 ---
 ## Contributing
 
